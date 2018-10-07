@@ -1,0 +1,9 @@
+C:\Users\Feryat\source\repos\CRUDwithDapper\CRUDwithDapper\bin\Debug\CRUDwithDapper.dll
+C:\Users\Feryat\source\repos\CRUDwithDapper\CRUDwithDapper\bin\Debug\CRUDwithDapper.pdb
+C:\Users\Feryat\source\repos\CRUDwithDapper\CRUDwithDapper\bin\Debug\Dapper.dll
+C:\Users\Feryat\source\repos\CRUDwithDapper\CRUDwithDapper\bin\Debug\Dapper.xml
+C:\Users\Feryat\source\repos\CRUDwithDapper\CRUDwithDapper\obj\Debug\CRUDwithDapper.csprojAssemblyReference.cache
+C:\Users\Feryat\source\repos\CRUDwithDapper\CRUDwithDapper\obj\Debug\CRUDwithDapper.csproj.CoreCompileInputs.cache
+C:\Users\Feryat\source\repos\CRUDwithDapper\CRUDwithDapper\obj\Debug\CRUDwithDapper.csproj.CopyComplete
+C:\Users\Feryat\source\repos\CRUDwithDapper\CRUDwithDapper\obj\Debug\CRUDwithDapper.dll
+C:\Users\Feryat\source\repos\CRUDwithDapper\CRUDwithDapper\obj\Debug\CRUDwithDapper.pdb
